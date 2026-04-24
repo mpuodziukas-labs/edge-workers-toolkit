@@ -1,5 +1,8 @@
 # cloudflare-workers-toolkit
 
+> Third-party toolkit for Cloudflare Workers. Not affiliated with Cloudflare, Inc.
+
+
 Python toolkit for Cloudflare Workers analysis: KV-backed rate limiting, cache hit-rate analytics, and L7 DDoS detection with Cloudflare Rules Language output.
 
 Built to demonstrate Senior SRE/SWE capabilities at Cloudflare scale:
